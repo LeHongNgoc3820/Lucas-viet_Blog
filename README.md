@@ -17,9 +17,15 @@ ______
 
 # Study
 
-_____
-_Make by_ **Lucas,**
 
+_______
+*Thanks for reading this post*\
+_Make by_ **Lucas,**
+______
 <img src="https://github.com/LeHongNgoc3820/Lucas_viet_Blog/blob/b5e2de5a812292889e793b719572d06f3ababf2d/Logo%20ta%CC%81ch%20ne%CC%82%CC%80n.png?raw=true"
      style="width:200px;height:200px;">
-_____
+
+**You can contact with me on:**
++ **Gmail**: lehongngoc.work@gmail.com
++ **GitHub**: [LeHongNgoc3820](https://github.com/LeHongNgoc3820)
++ **Linkedln**: [Ngoc Le Hong](https://www.linkedin.com/in/ngoc-le-hong-44131b21a/)
