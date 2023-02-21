@@ -8,7 +8,7 @@ _Viết lại hành trình trưởng thành!_
 </p>
 
 ________________________
-# Bool Review
+# Book Review
 
 # Study
 
